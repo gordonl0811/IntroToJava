@@ -12,9 +12,9 @@ You're more than welcome (and encouraged) to finish the exercises outside the cl
 
 ## Exercise Index
 
-| Index                     | Title                   | Category                     |
-|---------------------------|-------------------------|------------------------------|
-| [000](./Exercises/000.md) | An encapsulated Dice    | Basic Classes, Encapsulation |
-| [001](./Exercises/001.md) | Playing Craps with Dice | Basic Classes                |
-| [002](./Exercises/002.md) | An improved Dice        | Basic Classes                |
-| [003](./Exercises/003.md) | Pokémon Battles         | Basic Classes                |
+| Index | Title                   | Category                     |
+|-------|-------------------------|------------------------------|
+|  000  | An encapsulated Dice    | Basic Classes, Encapsulation |
+|  001  | Playing Craps with Dice | Basic Classes                |
+|  002  | An improved Dice        | Basic Classes                |
+|  003  | Pokémon Battles         | Basic Classes                |
