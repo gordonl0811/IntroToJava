@@ -4,16 +4,17 @@ Learning Java is a fantastic opportunity to consolidate the OOP concepts you lea
 
 Learning only the syntax of a language won't be enough to answer A-Level programming questions successfully, and it certainly won't make you a good software developer/engineer. Practising is the best (and perhaps only) way to achieve fluency, and the skills that are learnt through mastering one language are transferable to another. 
 
-## About the Questions
+## About the Exercises
 
-Instead of providing a monolithic question that could take the entire lesson to complete, I'm providing smaller tasks so that you can familiarise yourselves with the language at your own pace. Questions will be released each week based on the content that has been taught, though some questions may contain more content about the language which haven't been covered.
+Instead of providing a monolithic exercise that could take the entire lesson to complete, I'm providing smaller tasks so that you can familiarise yourselves with the language at your own pace. Exercises will be released each week based on the content that has been taught, though some exercises may contain more content about the language which haven't been covered.
 
-You're more than welcome (and encouraged) to finish the questions outside the classroom if you don't finish them during the lesson.
+You're more than welcome (and encouraged) to finish the exercises outside the classroom if you don't finish them during the lesson.
 
-## Question Index
+## Exercise Index
 
 | Index         | Title                   | Category                     |
 |---------------|-------------------------|------------------------------|
 | [000](000.md) | An encapsulated Dice    | Basic Classes, Encapsulation |
 | [001](001.md) | Playing Craps with Dice | Basic Classes                |
 | [002](002.md) | An improved Dice        | Basic Classes                |
+| [003](003.md) | Pokémon Battles         | Basic Classes                |
