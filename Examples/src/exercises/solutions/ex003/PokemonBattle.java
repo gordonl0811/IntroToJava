@@ -32,7 +32,7 @@ public class PokemonBattle {
       int firstAttackDamage = first.calculateAttackDamage();
       int secondAttackDamage = second.calculateAttackDamage();
 
-      // Work out who loses HP
+      // Work out who loses HP and report who attacks
       if (firstAttackDamage > secondAttackDamage) {
         second.loseHp(DEFAULT_DAMAGE);
         log(first.getName() + " attacks " + second.getName() + "!");
@@ -52,7 +52,12 @@ public class PokemonBattle {
 
       // Finish the battle if a winner has been found
       if (first.hasFainted() || second.hasFainted()) {
+
         log("---- BATTLE OVER ----");
+
+        // This will look bizarre if you haven't seen it before.
+        // You can read about it below!
+        // https://www.geeksforgeeks.org/java-ternary-operator-with-examples/
         Pokemon winner = first.hasFainted() ? second : first;
 
         log("");

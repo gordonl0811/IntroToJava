@@ -6,7 +6,7 @@ public class Pokemon {
 
   private final String name;
   private final int attack;
-  private int hp;
+  private int hp; // HP is the only attribute that changes - everything else is constant!
   private final Dice diceOne;
   private final Dice diceTwo;
 
@@ -37,6 +37,8 @@ public class Pokemon {
   }
 
   public int calculateAttackDamage() {
+    // As discussed in 001, we could just use one Dice and roll it twice.
+    // However, this design choice reflects the specification more closely.
     diceOne.roll();
     diceTwo.roll();
     return attack + diceOne.getTop() + diceTwo.getTop();
