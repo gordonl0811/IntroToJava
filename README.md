@@ -22,7 +22,9 @@ I highly recommend looking at them but _only_ once you've either completed the e
 
 | Index | Title                   | Category                     |
 |-------|-------------------------|------------------------------|
-|  000  | An encapsulated Dice    | Basic Classes, Encapsulation |
-|  001  | Playing Craps with Dice | Basic Classes                |
-|  002  | An improved Dice        | Basic Classes                |
-|  003  | Pokémon Battles         | Basic Classes                |
+| 000   | An encapsulated Dice    | Basic Classes, Encapsulation |
+| 001   | Playing Craps with Dice | Basic Classes                |
+| 002   | An improved Dice        | Basic Classes                |
+| 003   | Pokémon Battles         | Basic Classes                |
+| 004   | Menu Items              | Interfaces                   |
+| 005   | Music Catalogue         | Lists                        |
