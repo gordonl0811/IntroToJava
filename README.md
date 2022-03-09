@@ -27,4 +27,5 @@ I highly recommend looking at them but _only_ once you've either completed the e
 | 002   | An improved Dice        | Basic Classes                |
 | 003   | Pokémon Battles         | Basic Classes                |
 | 004   | Menu Items              | Interfaces                   |
-| 005   | Music Catalogue         | Lists                        |
+| 005   | Music Catalogue         | Data Structures              |
+| 006   | Lottery Simulators      | Interfaces, Data Structures  |
