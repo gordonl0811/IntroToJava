@@ -27,7 +27,7 @@ I highly recommend looking at them but _only_ once you've either completed the e
 | 002   | An improved Dice             | Basic Classes                |
 | 003   | Pokémon Battles              | Basic Classes                |
 | 004   | Menu Items                   | Interfaces                   |
-| [005](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/005.md)   | Music Catalogue              | Data Structures              |
-| [006](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/006.md)   | Lottery Simulators           | Interfaces, Data Structures  |
-| [007](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/007.md)   | Refactored LottoSimulator    | Refactoring                  |
-| [008](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/008.md)   | Refactored LottoSimulator 2.0| Refactoring                  |
+| [005](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/005.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex005) | Music Catalogue              | Data Structures              |
+| [006](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/006.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex006) | Lottery Simulators           | Interfaces, Data Structures  |
+| [007](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/007.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex007) | Refactored LottoSimulator    | Refactoring                  |
+| [008](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/008.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex008) | Refactored LottoSimulator 2.0| Refactoring                  |
