@@ -22,11 +22,11 @@ I highly recommend looking at them but _only_ once you've either completed the e
 
 | Index | Title                        | Category                     |
 |-------|------------------------------|------------------------------|
-| 000   | An encapsulated Dice         | Basic Classes, Encapsulation |
-| 001   | Playing Craps with Dice      | Basic Classes                |
-| 002   | An improved Dice             | Basic Classes                |
-| 003   | Pokémon Battles              | Basic Classes                |
-| 004   | Menu Items                   | Interfaces                   |
+| [000](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/000.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex000) | An encapsulated Dice         | Basic Classes, Encapsulation |
+| [001](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/001.md)  [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex001) | Playing Craps with Dice      | Basic Classes                |
+| [002](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/002.md)   [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex002) | An improved Dice             | Basic Classes                |
+| [003](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/003.md)   [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex003) | Pokémon Battles              | Basic Classes                |
+| [004](https://github.com/gordonl0811/IntroductionToJava/blob/main/Exercises/004.md)   [Solution](https://github.com/gordonl0811/IntroductionToJava/tree/main/Examples/src/exercises/solutions/ex004) | Menu Items                   | Interfaces                   |
 | 005   | Music Catalogue              | Data Structures              |
 | 006   | Lottery Simulators           | Interfaces, Data Structures  |
 | 007   | Refactored LottoSimulator    | Refactoring                  |
